@@ -6,4 +6,3 @@ The objective of this project is to update the the codebase to follow accessibil
 ## Usage
 Below is a screenshot of the landing page. The link to deploy the application is https://corgipower11.github.io/Challenge1-Horiseon/.
     ![Landing Page Screenshot](/assets/images/horiseon-landpage.png)
-    ```
