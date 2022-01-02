@@ -46,6 +46,8 @@ a {
     text-decoration: none;
 }
 
+/* Hero Style Start */
+
 p {
     font-size: 16px;
 }
@@ -69,11 +71,15 @@ p {
     margin-left: 25px;
 }
 
+/* Content Style */
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/* Benefits Style */
 
 .benefits {
     margin-right: 20px;
@@ -187,6 +193,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* apply stlyes to <footer> */
 
 .footer {
     padding: 30px;
